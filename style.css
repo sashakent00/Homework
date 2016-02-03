@@ -1,0 +1,25 @@
+*{
+	font-family: Tahoma;
+}
+body {
+	background: url(bg.png) no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+table{
+	margin:auto;
+	text-align:center;
+
+}
+.fig {
+	text-align: center;
+}
+
+h1,h2{
+	text-align: center;
+}
+
+
+
